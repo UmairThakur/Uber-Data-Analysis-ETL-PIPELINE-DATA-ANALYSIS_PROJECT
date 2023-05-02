@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "uber-big-data-analysis",
+  "private_key_id": "44438ade53828d8710b36881fdcacc87e815ec41",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCIdyNm2v9X8LAo\nsL+GWy5gEyvYtuEsFB2xmxijrA2o61aH7cQMkdA2i1XKLGfq6fNv3hosDT47o+qM\nwjeaalQUNccB80klCSC+A2z2vpbRELMy1q3lS8xB7A3RIo42Fmjkk0NdmXDJ4Tz3\ndvzuGuo802lKmYjp6ULX2nVX36yYDuTTI2n2XOHXdDNKOiAaOasdO5fFm6gwUbaV\nvXExYXMgYnNRTGBTLbXBVSHhbBWoTz999KZIbuRrNMr27dBavDOVM1hlGyManks6\nH1nckAeQHm3nhLGsapqS8wMbzkvH4VL8X3bQ79NbVPZa4O6P9M/rCFpm47vBoA1I\nhnfOXZrdAgMBAAECggEAGmBmwhRtutZtgivplQNOQykpdi2g97dapu/KsyYIDOCR\n/Nt245QSedx0JEvxeQ0nrbVw+xdDMl1kMjk+7JSFNFPRp52Zw3QQdVGtr8KWXYn8\nDQVEHtgH/qzs3cGvWaJ6u0WAhZipHYgw08cWq8IdiMy3IwFqnoWk0xppSGcWEdy0\n1n+5IfYCM87LZKIHwN/RIg+exLbYoLDY7Uvu2FU+dnhHFQfA6c7f+wxrL9iD3HbC\nQfFVQGKcIm5aT+ILDd0g7d3v22v4Rn/bDV1ruYkyZDilgehAtr9Jy2mR1Ej0vOpS\n+wkZUJ2Wh/WZfj6PPoMbszeic7gZiHDU461SVqO7wQKBgQC+uXuwYYjf68MxrIEc\niTMOoBO6m5WYEJBtEefTjByTV/PkfRisXZ1+hjx6dnRLc1E9bS7AHydN6t3tXLv7\nlA6cKAszbUVc9fJXFVWlm5Bg39RtDWPo+gUSlNVwzqFa2vXOYHi+iMTwLT7fGhh+\nFnK+dpcp8LmpzW8kFddQOEOgnQKBgQC3K6+aoGupfLh5iUhBvPrzQEthdFeXeNWZ\nuVUCWYRBbSPoXcmDRefjpT/OKMrmcf4Ru+ao8nBLb9+x4RABsZxnAmRo8ijfMt8Q\nDcJ2U9h9z7L2WNeOnpnsexWUKedvTwviwhsbLFiO4oUc+wdKmv+UpNeonE8UM40G\nT0qqyvkvQQKBgQC5A8fYH5We2t9claId434zBth8oqcof5ELLV59WiLyUFTY5v2D\nX8EDVwbeKYDBHJnHg93hI5eGP3uP4fC9qS/PDg1nku3Bsximn5yY7WLOhvNT4rRz\n8e3vy4+OQfRG5bejvvQCqTyaXNnrpS3zSqV+3B3h4pLJBO92yvU27Y21BQKBgH7e\nql3OeWPGeDvuI3cs/yCXSt7wZ28KCeDU5pWfDSUIBFQBCf973vblUYFo7ciZ8iG0\nZTpl2fPWRDl/qseRjsQmewfZmwelw6zp6uRshMn3n3xT4tHs9q4+Pp8GOz/0n0Xr\nrjyvBZPKP+rn0JATNa1uU9V8lqVmY2qYZx5PQjNBAoGBAJ/HygKaj6VrUizWFFss\nLWxodePc8XXlRzr/oONtGZbPBsHccnQLf2C8P9TKyJpWabeHNLnzD3ArztCS7UGJ\n5Ki2QZOFM//V8yDka8DGc9WkLd3ngNnQTV/icJB/sHuUmB9LsyD1YuhPvMbbULqh\nQ5e4L2uiXTcaG5vXPCjeiaJf\n-----END PRIVATE KEY-----\n",
+  "client_email": "uber-credential-to-connect-via@uber-big-data-analysis.iam.gserviceaccount.com",
+  "client_id": "115334940591081645973",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uber-credential-to-connect-via%40uber-big-data-analysis.iam.gserviceaccount.com"
+}
