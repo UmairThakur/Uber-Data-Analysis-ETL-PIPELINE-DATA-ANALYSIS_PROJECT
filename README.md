@@ -44,6 +44,7 @@ https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PRO
 
 ### SQL Query Solution to the questions asked:
 -- top 10 pickup locations based on number of trips
+
 SELECT pickup_location_id, COUNT(trip_id) as No_of_Trips
 FROM uber_dataset.fact_table
 GROUP BY pickup_location_id
@@ -51,11 +52,13 @@ ORDER BY No_of_Trips DESC
 LIMIT 10;
 
 -- total number of trips by passenger count
+
 SELECT passenger_count, COUNT(passenger_count) AS No_of_Trips
 FROM uber-big-data-analysis.uber_dataset.passenger_count_dim 
 GROUP BY passenger_count;
 
 -- Average fare amount by hour of the day
+
 SELECT d.pick_hour, AVG(f.fare_amount) AS Avg_Fare_Amt 
 FROM uber-big-data-analysis.uber_dataset.datetime_dim d
 JOIN uber-big-data-analysis.uber_dataset.fact_table f
